@@ -59,7 +59,7 @@ body {
 @media only screen and (max-width: 37.5em) {
   .quiz__section--1,
   .quiz__section--4 {
-    height: 90vh;
+    height: 100vh;
   }
 }
 
