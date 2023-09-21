@@ -52,14 +52,14 @@ body {
 
 .quiz__section--1,
 .quiz__section--4 {
-  height: 88vh;
+  height: 100vh;
 }
 
 /* convert 1em equal 16px, 600px / 16 = 37.5em  */
 @media only screen and (max-width: 37.5em) {
   .quiz__section--1,
   .quiz__section--4 {
-    height: 100vh;
+    /* height: 100vh; */
   }
 }
 
