@@ -1,6 +1,6 @@
 # Quiz-app
 # You have to read the readme file to know how the application is work
-1) You have to set a question before you can start an exam, for you to be able to set a question, you must set the firstname to BUSARI and lastname to SHAKRULLAHI. It will navigate you to where you will set a question.
+1) You have to set a question before you can start an exam, for you to be able to set a question, you have to login as an adminstrator and for you to be able to login as an adminstrator you have to Insert BUSARI as the firstname and SHAKRULLAHI as the lastname. It will navigate you to where you will set a question.
 2) You have to write the question in the text area and write the options in the input field, when you check the radio button tthe input value is your correct answer. If you need to write more options just focus of the last input it will be insert another input at the top of the last input.
 3) You can all edit the question by clicking the edit button, when you click edit button, it will display update and delete button with the question you want to edit.
 4) When you finish editing the question, you click on update button to update the question you edited.
